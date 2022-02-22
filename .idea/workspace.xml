@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f714fe6d-84d8-4312-a4bb-be28228f2754" name="Changes" comment="" />
+    <list default="true" id="f714fe6d-84d8-4312-a4bb-be28228f2754" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/First.Folder/first-todolist/src/components/TodoFooter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First.Folder/first-todolist/src/components/TodoHead.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First.Folder/first-todolist/src/components/TodoMain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First.Folder/first-todolist/src/components/TodoTemplate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First.Folder/first-todolist/src/modals/PwModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First.Folder/first-todolist/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/First.Folder/first-todolist/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First.Folder/first-todolist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/First.Folder/first-todolist/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First.Folder/first-todolist/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/First.Folder/first-todolist/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First.Folder/first-todolist/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/First.Folder/first-todolist/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First.Folder/first-todolist/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/First.Folder/first-todolist/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1645431091072</updated>
       <workItem from="1645431093416" duration="83000" />
-      <workItem from="1645431185972" duration="301000" />
+      <workItem from="1645431185972" duration="22417000" />
     </task>
     <servers />
   </component>

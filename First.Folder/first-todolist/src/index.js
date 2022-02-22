@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './bootstrap.min.css'; // 설치하여준 bootstrap을 연결
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
