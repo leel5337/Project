@@ -35,11 +35,9 @@ const TodoMainBlock = styled.div`
   }
 `;
 
-
-
 const TodoMain= () => {
     const [ModalOn, setModalOn] = useState(false); // 임의의값인 ModalOn,setModalOn을 지정히여 이것들이 동적 상태로 관리할 수 있게끔 useState함수를 사용한다
-            // 기본적으로 PwModal창은 꺼져있기 때문에 기본값을 false로 한다
+    // 기본적으로 PwModal창은 꺼져있기 때문에 기본값을 false로 한다
 
 
     return (
