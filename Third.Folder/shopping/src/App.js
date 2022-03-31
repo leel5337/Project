@@ -83,7 +83,7 @@ function App() {
             </Route>
 
             <Route path="/detail/:id">
-                <Detail shoes={shoes} 재고={재고}/> {/* props문법으로 보낼이름={state이름} */}
+                <Detail shoes={shoes} 재고={재고} 재고변경={재고변경}/> {/* props문법으로 보낼이름={state이름} */}
 
             </Route>
 

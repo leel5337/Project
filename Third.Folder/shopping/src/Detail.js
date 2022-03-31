@@ -52,7 +52,7 @@ function Detail(props){
 
                     <Info 재고={props.재고} />
 
-                    <button className="btn btn-danger">주문하기</button>
+                    <button className="btn btn-danger" onClick={()=>{props.재고변경([9,11,12])}}>주문하기</button>
                     <button className="btn btn-danger" onClick={()=>{ history.goBack() }}>뒤로가기</button> {/* goBack함수를 사용하여 뒤로가게끔 한다 */}
                     {/*<button className="btn btn-danger" onClick={()=>{ history.push('/') }}>가고싶은데로</button> /!*  *!/*/}
                 </div>
